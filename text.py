@@ -1,1 +1,1 @@
-print ("Hello")
+print ("Hello, have a good day!")
